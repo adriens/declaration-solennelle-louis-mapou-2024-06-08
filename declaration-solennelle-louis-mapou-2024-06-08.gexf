@@ -1,0 +1,467 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns="http://gexf.net/1.3" version="1.3" xmlns:viz="http://gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gexf.net/1.3 http://gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2024-06-08">
+    <creator>Apache NetBeans Platform Dev (Build {0})</creator>
+    <title></title>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="countterms" title="countTerms" type="integer"/>
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="countpairs" title="countPairs" type="integer"/>
+    </attributes>
+    <nodes>
+      <node id="communauté" label="communauté">
+        <attvalues>
+          <attvalue for="countterms" value="3"/>
+        </attvalues>
+        <viz:position x="1008.0993" y="-790.22296"/>
+      </node>
+      <node id="gouvernement" label="gouvernement">
+        <attvalues>
+          <attvalue for="countterms" value="13"/>
+        </attvalues>
+        <viz:position x="956.73267" y="-788.6899"/>
+      </node>
+      <node id="sénat coutumier" label="sénat coutumier">
+        <attvalues>
+          <attvalue for="countterms" value="2"/>
+        </attvalues>
+        <viz:position x="-3411.4517" y="1310.9409"/>
+      </node>
+      <node id="publique" label="publique">
+        <attvalues>
+          <attvalue for="countterms" value="3"/>
+        </attvalues>
+        <viz:position x="-1945.7565" y="-584.9206"/>
+      </node>
+      <node id="famille" label="famille">
+        <attvalues>
+          <attvalue for="countterms" value="5"/>
+        </attvalues>
+        <viz:position x="906.8504" y="-708.85156"/>
+      </node>
+      <node id="condition" label="condition">
+        <attvalues>
+          <attvalue for="countterms" value="3"/>
+        </attvalues>
+        <viz:position x="109.62087" y="-3573.0935"/>
+      </node>
+      <node id="entreprise" label="entreprise">
+        <attvalues>
+          <attvalue for="countterms" value="5"/>
+        </attvalues>
+        <viz:position x="924.9993" y="-736.42236"/>
+      </node>
+      <node id="besoin" label="besoin">
+        <attvalues>
+          <attvalue for="countterms" value="6"/>
+        </attvalues>
+        <viz:position x="907.956" y="-862.99817"/>
+      </node>
+      <node id="politique" label="politique">
+        <attvalues>
+          <attvalue for="countterms" value="13"/>
+        </attvalues>
+        <viz:position x="110.26425" y="2936.2495"/>
+      </node>
+      <node id="collectivement" label="collectivement">
+        <attvalues>
+          <attvalue for="countterms" value="3"/>
+        </attvalues>
+        <viz:position x="-2366.9233" y="-2063.9143"/>
+      </node>
+      <node id="financement" label="financement">
+        <attvalues>
+          <attvalue for="countterms" value="3"/>
+        </attvalues>
+        <viz:position x="890.4234" y="-878.61597"/>
+      </node>
+      <node id="responsable" label="responsable">
+        <attvalues>
+          <attvalue for="countterms" value="8"/>
+        </attvalues>
+        <viz:position x="104.50325" y="2880.2695"/>
+      </node>
+      <node id="confiance" label="confiance">
+        <attvalues>
+          <attvalue for="countterms" value="3"/>
+        </attvalues>
+        <viz:position x="-1554.9073" y="1217.2432"/>
+      </node>
+      <node id="travail" label="travail">
+        <attvalues>
+          <attvalue for="countterms" value="4"/>
+        </attvalues>
+        <viz:position x="-3098.191" y="-392.65482"/>
+      </node>
+      <node id="ensemble" label="ensemble">
+        <attvalues>
+          <attvalue for="countterms" value="2"/>
+        </attvalues>
+        <viz:position x="1062.5619" y="-789.43744"/>
+      </node>
+      <node id="appel" label="appel">
+        <attvalues>
+          <attvalue for="countterms" value="2"/>
+        </attvalues>
+        <viz:position x="-3404.87" y="1322.632"/>
+      </node>
+      <node id="politiques publique" label="politiques publique">
+        <attvalues>
+          <attvalue for="countterms" value="2"/>
+        </attvalues>
+        <viz:position x="-1942.2694" y="-576.6842"/>
+      </node>
+      <node id="école" label="école">
+        <attvalues>
+          <attvalue for="countterms" value="2"/>
+        </attvalues>
+        <viz:position x="963.1409" y="-764.3876"/>
+      </node>
+      <node id="visite" label="visite">
+        <attvalues>
+          <attvalue for="countterms" value="2"/>
+        </attvalues>
+        <viz:position x="86.43001" y="2916.5205"/>
+      </node>
+      <node id="crise" label="crise">
+        <attvalues>
+          <attvalue for="countterms" value="10"/>
+        </attvalues>
+        <viz:position x="933.92346" y="-822.7564"/>
+      </node>
+      <node id="engager" label="engager">
+        <attvalues>
+          <attvalue for="countterms" value="3"/>
+        </attvalues>
+        <viz:position x="103.28083" y="2933.3347"/>
+      </node>
+      <node id="maison" label="maison">
+        <attvalues>
+          <attvalue for="countterms" value="2"/>
+        </attvalues>
+        <viz:position x="897.3088" y="-693.3115"/>
+      </node>
+      <node id="mobilisation" label="mobilisation">
+        <attvalues>
+          <attvalue for="countterms" value="3"/>
+        </attvalues>
+        <viz:position x="934.4471" y="-783.51294"/>
+      </node>
+      <node id="pays" label="pays">
+        <attvalues>
+          <attvalue for="countterms" value="22"/>
+        </attvalues>
+        <viz:position x="107.637184" y="2913.639"/>
+      </node>
+      <node id="trouver" label="trouver">
+        <attvalues>
+          <attvalue for="countterms" value="3"/>
+        </attvalues>
+        <viz:position x="-3092.232" y="-385.98483"/>
+      </node>
+      <node id="présence" label="présence">
+        <attvalues>
+          <attvalue for="countterms" value="2"/>
+        </attvalues>
+        <viz:position x="977.50183" y="-746.1528"/>
+      </node>
+      <node id="processus" label="processus">
+        <attvalues>
+          <attvalue for="countterms" value="5"/>
+        </attvalues>
+        <viz:position x="3780.786" y="-1106.2034"/>
+      </node>
+      <node id="salarié" label="salarié">
+        <attvalues>
+          <attvalue for="countterms" value="3"/>
+        </attvalues>
+        <viz:position x="922.0761" y="-719.6073"/>
+      </node>
+      <node id="accord" label="accord">
+        <attvalues>
+          <attvalue for="countterms" value="8"/>
+        </attvalues>
+        <viz:position x="112.63954" y="2902.4868"/>
+      </node>
+      <node id="collectivement honneur" label="collectivement honneur">
+        <attvalues>
+          <attvalue for="countterms" value="2"/>
+        </attvalues>
+        <viz:position x="-2366.6035" y="-2072.8528"/>
+      </node>
+      <node id="peuple" label="peuple">
+        <attvalues>
+          <attvalue for="countterms" value="4"/>
+        </attvalues>
+        <viz:position x="1042.8579" y="-789.9052"/>
+      </node>
+      <node id="reconstruction" label="reconstruction">
+        <attvalues>
+          <attvalue for="countterms" value="5"/>
+        </attvalues>
+        <viz:position x="900.58606" y="-885.26373"/>
+      </node>
+      <node id="gestion" label="gestion">
+        <attvalues>
+          <attvalue for="countterms" value="3"/>
+        </attvalues>
+        <viz:position x="952.45996" y="-815.9477"/>
+      </node>
+      <node id="collectivité" label="collectivité">
+        <attvalues>
+          <attvalue for="countterms" value="3"/>
+        </attvalues>
+        <viz:position x="934.15643" y="-808.4022"/>
+      </node>
+      <node id="confiance retrouvée" label="confiance retrouvée">
+        <attvalues>
+          <attvalue for="countterms" value="2"/>
+        </attvalues>
+        <viz:position x="-1557.9673" y="1225.6477"/>
+      </node>
+      <node id="coutumier" label="coutumier">
+        <attvalues>
+          <attvalue for="countterms" value="5"/>
+        </attvalues>
+        <viz:position x="-3398.0364" y="1311.0865"/>
+      </node>
+      <node id="agir" label="agir">
+        <attvalues>
+          <attvalue for="countterms" value="2"/>
+        </attvalues>
+        <viz:position x="969.86237" y="-799.19073"/>
+      </node>
+      <node id="difficile" label="difficile">
+        <attvalues>
+          <attvalue for="countterms" value="4"/>
+        </attvalues>
+        <viz:position x="109.61401" y="-3564.1497"/>
+      </node>
+      <node id="école canadienne" label="école canadienne">
+        <attvalues>
+          <attvalue for="countterms" value="3"/>
+        </attvalues>
+        <viz:position x="975.5438" y="-763.907"/>
+      </node>
+      <node id="lors" label="lors">
+        <attvalues>
+          <attvalue for="countterms" value="2"/>
+        </attvalues>
+        <viz:position x="128.87318" y="2917.26"/>
+      </node>
+      <node id="émancipation" label="émancipation">
+        <attvalues>
+          <attvalue for="countterms" value="3"/>
+        </attvalues>
+        <viz:position x="3782.634" y="-1097.4519"/>
+      </node>
+      <node id="responsables politique" label="responsables politique">
+        <attvalues>
+          <attvalue for="countterms" value="4"/>
+        </attvalues>
+        <viz:position x="103.415215" y="2868.7146"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="5" source="politique" target="pays" weight="5.0">
+        <attvalues>
+          <attvalue for="countpairs" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="6" source="coutumier" target="appel" weight="5.0">
+        <attvalues>
+          <attvalue for="countpairs" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="7" source="gestion" target="crise" weight="5.0">
+        <attvalues>
+          <attvalue for="countpairs" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="8" source="pays" target="accord" weight="10.0">
+        <attvalues>
+          <attvalue for="countpairs" value="4"/>
+        </attvalues>
+      </edge>
+      <edge id="9" source="confiance retrouvée" target="confiance" weight="5.0">
+        <attvalues>
+          <attvalue for="countpairs" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="20" source="gouvernement" target="gestion" weight="5.0">
+        <attvalues>
+          <attvalue for="countpairs" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="21" source="gouvernement" target="collectivité" weight="5.0">
+        <attvalues>
+          <attvalue for="countpairs" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="22" source="publique" target="politiques publique" weight="5.0">
+        <attvalues>
+          <attvalue for="countpairs" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="23" source="responsable" target="pays" weight="5.0">
+        <attvalues>
+          <attvalue for="countpairs" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="24" source="financement" target="besoin" weight="5.0">
+        <attvalues>
+          <attvalue for="countpairs" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="25" source="émancipation" target="processus" weight="5.0">
+        <attvalues>
+          <attvalue for="countpairs" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="26" source="gouvernement" target="agir" weight="5.0">
+        <attvalues>
+          <attvalue for="countpairs" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="27" source="reconstruction" target="financement" weight="5.0">
+        <attvalues>
+          <attvalue for="countpairs" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="28" source="peuple" target="communauté" weight="5.0">
+        <attvalues>
+          <attvalue for="countpairs" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="29" source="gouvernement" target="entreprise" weight="5.0">
+        <attvalues>
+          <attvalue for="countpairs" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="30" source="école" target="présence" weight="5.0">
+        <attvalues>
+          <attvalue for="countpairs" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="31" source="difficile" target="condition" weight="5.0">
+        <attvalues>
+          <attvalue for="countpairs" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="10" source="mobilisation" target="gouvernement" weight="5.0">
+        <attvalues>
+          <attvalue for="countpairs" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="32" source="responsables politique" target="responsable" weight="10.0">
+        <attvalues>
+          <attvalue for="countpairs" value="4"/>
+        </attvalues>
+      </edge>
+      <edge id="11" source="école canadienne" target="école" weight="7.5">
+        <attvalues>
+          <attvalue for="countpairs" value="3"/>
+        </attvalues>
+      </edge>
+      <edge id="33" source="famille" target="entreprise" weight="5.0">
+        <attvalues>
+          <attvalue for="countpairs" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="12" source="crise" target="collectivité" weight="5.0">
+        <attvalues>
+          <attvalue for="countpairs" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="34" source="pays" target="engager" weight="5.0">
+        <attvalues>
+          <attvalue for="countpairs" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="13" source="gouvernement" target="communauté" weight="5.0">
+        <attvalues>
+          <attvalue for="countpairs" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="35" source="peuple" target="ensemble" weight="5.0">
+        <attvalues>
+          <attvalue for="countpairs" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="14" source="visite" target="pays" weight="5.0">
+        <attvalues>
+          <attvalue for="countpairs" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="36" source="salarié" target="entreprise" weight="5.0">
+        <attvalues>
+          <attvalue for="countpairs" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="15" source="maison" target="famille" weight="5.0">
+        <attvalues>
+          <attvalue for="countpairs" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="37" source="sénat coutumier" target="appel" weight="5.0">
+        <attvalues>
+          <attvalue for="countpairs" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="16" source="école canadienne" target="présence" weight="5.0">
+        <attvalues>
+          <attvalue for="countpairs" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="38" source="école" target="gouvernement" weight="7.5">
+        <attvalues>
+          <attvalue for="countpairs" value="3"/>
+        </attvalues>
+      </edge>
+      <edge id="17" source="collectivement honneur" target="collectivement" weight="5.0">
+        <attvalues>
+          <attvalue for="countpairs" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="18" source="pays" target="lors" weight="5.0">
+        <attvalues>
+          <attvalue for="countpairs" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="19" source="école canadienne" target="gouvernement" weight="5.0">
+        <attvalues>
+          <attvalue for="countpairs" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="0" source="trouver" target="travail" weight="5.0">
+        <attvalues>
+          <attvalue for="countpairs" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="1" source="reconstruction" target="besoin" weight="5.0">
+        <attvalues>
+          <attvalue for="countpairs" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="2" source="gouvernement" target="crise" weight="7.5">
+        <attvalues>
+          <attvalue for="countpairs" value="3"/>
+        </attvalues>
+      </edge>
+      <edge id="3" source="sénat coutumier" target="coutumier" weight="5.0">
+        <attvalues>
+          <attvalue for="countpairs" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="4" source="crise" target="besoin" weight="5.0">
+        <attvalues>
+          <attvalue for="countpairs" value="2"/>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
